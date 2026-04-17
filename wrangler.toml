@@ -1,0 +1,5 @@
+name = "house-code-matching-demo"
+compatibility_date = "2026-04-17"
+
+[assets]
+directory = "./2、房屋编码匹配"
